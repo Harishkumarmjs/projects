@@ -436,6 +436,20 @@ swiper-slide {
 }
 
 @media screen and (width < 900px) {
+    .page-tow {
+        flex-direction: column;
+    }
+
+    .page-tow-cnt-one {
+        width: 100%;
+        padding: 40px;
+    }
+
+    .page-tow-cnt-tow {
+        width: 100%;
+        padding: 40px;
+    }
+
     .page-four-cnt-2 {
         width: 100%;
     }
